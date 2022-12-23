@@ -71,4 +71,4 @@ Now that you have installed everything, you can finally dabble with the code.
 After you have modified the program to your needs, you can just run the file in your terminal and it should work. You can run it in the background and it will
 work.
 
-## Contact my email @24ashwinv@gmail.com or dm me at @thefamashwin on Instagram for any questions or to let me know if there is an error with the code
+## Contact my email @24ashwinv@gmail.com or dm me at @_ashwinv on Instagram for any questions or to let me know if there is an error with the code
